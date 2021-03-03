@@ -55,18 +55,17 @@
 </p>
 
 ## Contact :iphone:
-
 <p align="center">
-    <a href="https://github.com/gustavofalcao1" target="_blank">
+    <a href="https://github.com/gustavofalcao1">
         <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/gustavofalcao1">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:gustavo.falcao01@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gustavo.falcao01@gmail.com" target="_blank">
+    <a href="mailto:gustavo.falcao01@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gustavo.falcao01@gmail.com">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/gustavofalcao1" target="_blank">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/gustavofalcao1/" target="_blank">
+    <a href="https://www.linkedin.com/in/gustavofalcao1">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/gustavofalcao1/">
     </a>
 </p>
 
