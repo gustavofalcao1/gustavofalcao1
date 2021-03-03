@@ -51,11 +51,9 @@
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-   
 </p>
 
 ## Contact :iphone:
-
 <p align="center">
     <a href="https://github.com/gustavofalcao1">
         <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/gustavofalcao1">
@@ -69,12 +67,10 @@
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/gustavofalcao1/">
     </a>
 </p>
-
 <p align="center"> 
 
  ## Total Profile Visits :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/gustavofalcao1/count.svg" />
  </p>
-
 </p>
