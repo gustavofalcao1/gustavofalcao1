@@ -22,35 +22,36 @@
   <a href="https://github.com/gustavofalcao1/gustavofalcao">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofalcao1&layout=compact&theme=dark"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofalcao1&layout=compact"
     />
   </a>
   <a href="https://github.com/gustavofalcao1/gustavofalcao1">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=gustavofalcao1&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dark"
+      src="https://github-readme-stats.vercel.app/api?username=gustavofalcao1&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
     />
   </a>
 </p>
 
 ## Skills :nerd_face:
 <p align="center">
-    <!-- <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img height="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img height="40" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img height="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
+    <img height="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    <img height="40" src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+    <img height="40" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ## Contact :iphone:
