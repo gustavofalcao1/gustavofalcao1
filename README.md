@@ -36,7 +36,9 @@
 
 ## Skills :nerd_face:
 <p align="center">
+  <a href="https://github.com/gustavofalcao1?tab=repositories&q=&type=&language=javascript">
     <img height="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
+  </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
