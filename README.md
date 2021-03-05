@@ -44,8 +44,8 @@
     <img height="40" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#">
-    <img height="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
+  <a href="https://github.com/gustavofalcao1?tab=repositories&q=&type=&language=java">
+    <img height="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/gustavofalcao1?tab=repositories&q=&type=&language=html">
