@@ -19,13 +19,13 @@
 </br>
 </br>
 <p align="center">
-  <a href="https://github.com/gustavofalcao1/gustavofalcao1">
+  <a href="https://github.com/gustavofalcao1">
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofalcao1&layout=compact"
     />
   </a>
-  <a href="https://github.com/gustavofalcao1/gustavofalcao1">
+  <a href="https://github.com/gustavofalcao1">
     <img
       align="center"
       height="165"
@@ -40,7 +40,7 @@
     <img height="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#">
+  <a href="https://github.com/gustavofalcao1">
     <img height="40" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -52,11 +52,11 @@
     <img height="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#">
+  <a href="https://github.com/gustavofalcao1">
     <img height="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#">
+  <a href="https://github.com/gustavofalcao1">
     <img height="40" src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -64,7 +64,7 @@
     <img height="40" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#">
+  <a href="https://github.com/gustavofalcao1">
     <img height="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
