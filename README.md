@@ -19,7 +19,7 @@
 </br>
 </br>
 <p align="center">
-  <a href="https://github.com/gustavofalcao1/gustavofalcao">
+  <a href="https://github.com/gustavofalcao1/gustavofalcao1">
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofalcao1&layout=compact"
