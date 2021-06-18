@@ -2,9 +2,8 @@
 
 ### Abstract
 
-- 👨‍💻 Network and Systems Manager Intern **ISLAGaia**.
-- 🌱 Computer Engineering Student.
-- 💙 Interest: Java, NodeJS, ReactJS, C#.
+- 👨‍💻 Computer Engineering Student.
+- 💙 Interest: ReactJS, NodeJS, C#.
 
 <p align="center">
   <!---
