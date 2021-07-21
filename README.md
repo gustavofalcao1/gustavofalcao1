@@ -3,7 +3,7 @@
 ### Abstract
 
 - 👨‍💻 Computer Engineering Student.
-- 💙 Interest: ReactJS, React Native, NodeJS, C#.
+- 💙 Interest: ReactJS, React Native, NodeJS, C#, Shell Script.
 
 <p align="center">
   <!---
