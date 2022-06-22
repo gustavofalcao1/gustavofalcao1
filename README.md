@@ -1,4 +1,4 @@
-## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="10px"></h2>
+## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30"></h2>
 
 ### Abstract
 
@@ -40,7 +40,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/gustavofalcao1">
-    <img height="40" src="[https://icongr.am/devicon/react-original.svg?size=128&color=currentColor](https://iconape.com/wp-content/png_logo_vector/flutter.png)">
+    <img height="40" src="https://iconape.com/wp-content/png_logo_vector/flutter.png">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/gustavofalcao1?tab=repositories&q=&type=&language=javascript">
