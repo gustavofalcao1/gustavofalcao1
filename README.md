@@ -51,12 +51,8 @@
     <img height="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/gustavofalcao1">
+  <a href="https://github.com/gustavofalcao1?tab=repositories&q=&type=&language=css">
     <img height="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/gustavofalcao1">
-    <img height="40" src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/gustavofalcao1?tab=repositories&q=&type=&language=c%23">
