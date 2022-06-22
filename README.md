@@ -1,4 +1,4 @@
-## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="10px"></h2>
 
 ### Abstract
 
@@ -35,16 +35,12 @@
 
 ## Skills :nerd_face:
 <p align="center">
-  <a href="https://github.com/gustavofalcao1?tab=repositories&q=&type=&language=javascript">
-    <img height="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/gustavofalcao1">
     <img height="40" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/gustavofalcao1?tab=repositories&q=&type=&language=java">
-    <img height="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
+  <a href="https://github.com/gustavofalcao1?tab=repositories&q=&type=&language=javascript">
+    <img height="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/gustavofalcao1?tab=repositories&q=&type=&language=html">
@@ -61,6 +57,10 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/gustavofalcao1?tab=repositories&q=&type=&language=c%23">
     <img height="40" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/gustavofalcao1?tab=repositories&q=&type=&language=java">
+    <img height="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/gustavofalcao1">
