@@ -39,6 +39,10 @@
     <img height="40" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/gustavofalcao1">
+    <img height="40" src="[https://icongr.am/devicon/react-original.svg?size=128&color=currentColor](https://iconape.com/wp-content/png_logo_vector/flutter.png)">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/gustavofalcao1?tab=repositories&q=&type=&language=javascript">
     <img height="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
   </a>
