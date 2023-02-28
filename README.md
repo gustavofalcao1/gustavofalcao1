@@ -59,10 +59,6 @@
     <img height="40" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/gustavofalcao1?tab=repositories&q=&type=&language=java">
-    <img height="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/gustavofalcao1">
     <img height="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor">
   </a>
