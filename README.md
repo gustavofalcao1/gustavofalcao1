@@ -1,9 +1,7 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30"></h2>
 
-### Abstract
-
-- 👨‍💻 Computer Engineering Student.
-- 💙 Interest: ReactJS, React Native, NodeJS, C#, Shell Script.
+#### - :man_technologist: Computer Engineering Student.
+#### - :blue_heart: Interest: JS/TS, NodeJS, Python, C#, Shell Script and Linux Systems.
 
 <p align="center">
   <!---
@@ -35,6 +33,7 @@
 
 ## Skills :nerd_face:
 <p align="center">
+  
   <a href="https://github.com/gustavofalcao1">
     <img height="40" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor">
   </a>
@@ -72,11 +71,11 @@
 ## Contact :iphone:
 <p align="center">
     <a href="https://github.com/gustavofalcao1">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/gustavofalcao1">
+        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/gustavofalcao1/">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:gustavo.falcao01@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gustavo.falcao01@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gustavo.falcao01@gmail.com/">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/gustavofalcao1">
