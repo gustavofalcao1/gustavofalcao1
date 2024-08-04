@@ -59,7 +59,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/gustavofalcao1?tab=repositories&q=&type=&language=python">
-    <img height="40" src="https://iconape.am/devicon/python-original.svg?size=128&color=currentColor">
+    <img height="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/gustavofalcao1">
