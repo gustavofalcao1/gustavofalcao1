@@ -38,12 +38,12 @@
     <img height="40" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/gustavofalcao1">
-    <img height="40" src="https://iconape.com/wp-content/png_logo_vector/flutter.png">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/gustavofalcao1?tab=repositories&q=&type=&language=javascript">
     <img height="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/gustavofalcao1?tab=repositories&q=&type=&language=typescript">
+    <img height="40" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/gustavofalcao1?tab=repositories&q=&type=&language=html">
@@ -56,6 +56,14 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/gustavofalcao1?tab=repositories&q=&type=&language=c%23">
     <img height="40" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/gustavofalcao1?tab=repositories&q=&type=&language=python">
+    <img height="40" src="https://iconape.am/devicon/python-original.svg?size=128&color=currentColor">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/gustavofalcao1">
+    <img height="40" src="https://iconape.com/wp-content/png_logo_vector/flutter.png">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/gustavofalcao1">
