@@ -1,17 +1,9 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30"></h2>
 
-#### - :man_technologist: Computer Engineering Student.
-#### - :blue_heart: Interest: JS/TS, NodeJS, Python, C#, Shell Script and Linux Systems.
+#### - :man_technologist: Computer Engineering.
+#### - :blue_heart: Interest: JS/TS, Python, C#, Shell Script and Linux Systems.
 
 <p align="center">
-  <!---
-  <a href="#">
-    <img align="center" width="300" src="mateus.png" />
-  </a>
-  <a href="#">
-    <img align="center" width="450" src="dev.gif" />
-  </a>
-  -->
 </p>
 </br>
 </br>
@@ -33,45 +25,32 @@
 
 ## Skills :nerd_face:
 <p align="center">
-  
-  <a href="https://github.com/gustavofalcao1">
-    <img height="40" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor">
+  <a href="https://github.com/gustavofalcao1?tab=repositories&q=&type=&language=typescript" >
+    <img height="80" src="https://devicon-website.vercel.app/api/react/original-wordmark.svg">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/gustavofalcao1?tab=repositories&q=&type=&language=javascript">
-    <img height="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/gustavofalcao1?tab=repositories&q=&type=&language=typescript">
-    <img height="40" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/gustavofalcao1?tab=repositories&q=&type=&language=html">
-    <img height="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/gustavofalcao1?tab=repositories&q=&type=&language=css">
-    <img height="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/gustavofalcao1?tab=repositories&q=&type=&language=c%23">
-    <img height="40" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">
+    <img height="80" src="https://devicon-website.vercel.app/api/nodejs/plain-wordmark.svg">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/gustavofalcao1?tab=repositories&q=&type=&language=python">
-    <img height="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor">
+    <img height="80" src="https://devicon-website.vercel.app/api/python/plain-wordmark.svg">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/gustavofalcao1">
-    <img height="40" src="https://iconape.com/wp-content/png_logo_vector/flutter.png">
+    <img height="80" src="https://devicon-website.vercel.app/api/mongodb/plain-wordmark.svg">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/gustavofalcao1">
-    <img height="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor">
+    <img height="80" src="https://devicon-website.vercel.app/api/mysql/plain-wordmark.svg">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/gustavofalcao1">
+    <img height="80" src="https://devicon-website.vercel.app/api/firebase/plain-wordmark.svg">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/gustavofalcao1?tab=repositories&q=&type=&language=shell">
-    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png">
+    <img height="80" src="https://devicon-website.vercel.app/api/debian/plain-wordmark.svg">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
