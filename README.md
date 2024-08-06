@@ -36,15 +36,15 @@
 </p>
 -->
 <p align="center">
- <a href="https://dev.gustavofalcao.pt" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="gustavofalcao1" />
- </a>
- <a href="https://www.linkedin.com/in/gustavofalcao1" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gustavofalcao1"/>
- </a>
-<a href="https://dev.to/gustavofalcao" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="gustavofalcao1" />
- </a>
+  <a style="text-decoration:none href="https://dev.gustavofalcao.pt" target="blank">
+    <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="gustavofalcao1" />
+  </a>
+  <a style="text-decoration:none href="https://www.linkedin.com/in/gustavofalcao1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gustavofalcao1"/>
+  </a>
+  <a style="text-decoration:none href="https://dev.to/gustavofalcao" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="gustavofalcao1" />
+  </a>
   <!--
  <a href="https://twitter.com/gustavofalcao1" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
@@ -65,7 +65,8 @@
 <p>
  <img align="right" width="350" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+ 👨‍💻 &emsp; Solutions Architect & Computer Engineer<br/><br/>
+ ✌️ &emsp; I transform <del>Problems</del> into <ins>Knowledge</ins><br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: gustavo.falcao01@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/gustavofalcao1/gustavofalcao1/issues)
