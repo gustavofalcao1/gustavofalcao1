@@ -20,7 +20,7 @@
 <!-- Intro  -->
 <h3 align="center">
   <samp>&gt; Hey There!, I am
-    <b><a target="_blank" href="https://dev.gustavofalcao.pt">Gustavo Falcão</a></b>
+    <b><a target="_blank" href="https://dev.gustavofalcao.pt/digitalresume">Gustavo Falcão</a></b>
   </samp>
 </h3>
 
