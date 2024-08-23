@@ -36,25 +36,13 @@
 </p>
 -->
 <p align="center">
-  <a style="text-decoration:none href="https://dev.gustavofalcao.pt" target="blank">
-    <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="gustavofalcao1" />
-  </a>
-  <a style="text-decoration:none href="https://www.linkedin.com/in/gustavofalcao1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gustavofalcao1"/>
-  </a>
-  <a style="text-decoration:none href="https://dev.to/gustavofalcao" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="gustavofalcao1" />
-  </a>
+  <a href="https://dev.gustavofalcao.pt" target="_blank"><img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="gustavofalcao1" /></a>
+  <a href="https://www.linkedin.com/in/gustavofalcao1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gustavofalcao1"/></a>
+  <a href="https://dev.to/gustavofalcao" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="gustavofalcao1" /></a>
   <!--
- <a href="https://twitter.com/gustavofalcao1" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://instagram.com/gustavofalcao1" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="gustavofalcao1" />
- </a> 
- <a href="https://facebook.com/gustavofalcao1" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="gustavofalcao1"  />
-  </a>
+  <a href="https://twitter.com/gustavofalcao1" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://instagram.com/gustavofalcao1" target="_blank"><img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="gustavofalcao1" /></a>
+  <a href="https://facebook.com/gustavofalcao1" target="_blank"><img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="gustavofalcao1" /></a>
   -->
 </p>
 <br />
@@ -104,20 +92,24 @@
 
 <br/>
 
-## Top Open Source -
-[![Cluey-Web](https://github-readme-stats.vercel.app/api/pin/?username=gustavofalcao1&repo=Cluey-Web&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gustavofalcao1/Cluey-Web)
-[![Cluey-App](https://github-readme-stats.vercel.app/api/pin/?username=gustavofalcao1&repo=Cluey-App&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gustavofalcao1/Cluey-App)
-[![NodeDO](https://github-readme-stats.vercel.app/api/pin/?username=gustavofalcao1&repo=NodeDO&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gustavofalcao1/NodeDO)
-[![AIChat-CLI](https://github-readme-stats.vercel.app/api/pin/?username=gustavofalcao1&repo=AIChat-CLI&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gustavofalcao1/AIChat-CLI)
-[![Tasks](https://github-readme-stats.vercel.app/api/pin/?username=gustavofalcao1&repo=Tasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gustavofalcao1/Tasks)
-[![digitalresume](https://github-readme-stats.vercel.app/api/pin/?username=gustavofalcao1&repo=digitalresume&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gustavofalcao1/digitalresume)
-[![Gustavo Falcão Readme](https://github-readme-stats.vercel.app/api/pin/?username=gustavofalcao1&repo=gustavofalcao1&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gustavofalcao1/gustavofalcao1)
-
-<p align="left">
-  <a href="https://github.com/gustavofalcao1?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+## Top Open Source
+<p align="center">
+  <a href="https://github.com/gustavofalcao1/Cluey-Web" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavofalcao1&repo=Cluey-Web&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Cluey-Web"/></a>
+  <a href="https://github.com/gustavofalcao1/Cluey-App" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavofalcao1&repo=Cluey-App&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Cluey-App"/></a>
+  <a href="https://github.com/gustavofalcao1/NodeDO" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavofalcao1&repo=NodeDO&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="NodeDO"/></a>
+  <a href="https://github.com/gustavofalcao1/AIChat-CLI" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavofalcao1&repo=AIChat-CLI&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="AIChat-CLI"/></a>
+  <a href="https://github.com/gustavofalcao1/Tasks" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavofalcao1&repo=Tasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Tasks"/></a>
+  <a href="https://github.com/gustavofalcao1/digitalresume" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavofalcao1&repo=digitalresume&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="digitalresume"/></a>
+  <a href="https://github.com/gustavofalcao1/gustavofalcao1" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavofalcao1&repo=gustavofalcao1&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Gustavo Falcão Readme"/></a>
+  <a href="https://github.com/gustavofalcao1/WebSchool" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavofalcao1&repo=WebSchool&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="WebSchool"/></a>
 </p>
 
 <br/>
+
+<p align="center">
+  <a href="https://github.com/gustavofalcao1?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
+
 <hr/>
 <br/>
 
