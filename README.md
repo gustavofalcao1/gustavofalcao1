@@ -79,7 +79,7 @@
   <a href="https://github.com/gustavofalcao1?tab=repositories&q=topic:expo&type=&sort="><img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&labelColor=FFFFFF&logo=expo&logoColor=000000" alt="Expo"/></a>
   <a href="https://github.com/gustavofalcao1?tab=repositories"><img src="https://img.shields.io/badge/Yarn-5C8EC4?style=for-the-badge&labelColor=FFFFFF&logo=yarn&logoColor=5C8EC4" alt="Yarn"/></a>
   <a href="https://github.com/gustavofalcao1?tab=repositories&q=&type=&language=python&sort="><img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&labelColor=FFD34B&logo=python&logoColor=306998" alt="Python"/></a>
-  <a href="hhttps://github.com/gustavofalcao1?tab=repositories&q=&type=&language=c%23&sort="><img src="https://img.shields.io/badge/C%23-672687?style=for-the-badge&labelColor=FFFFFF&logo=c&logoColor=672687" alt="C#"/></a>
+  <a href="https://github.com/gustavofalcao1?tab=repositories&q=&type=&language=c%23&sort="><img src="https://img.shields.io/badge/C%23-672687?style=for-the-badge&labelColor=FFFFFF&logo=c&logoColor=672687" alt="C#"/></a>
   <a href="https://github.com/gustavofalcao1?tab=repositories&q=topic:mongodb&type=&sort="><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&labelColor=FFFFFF&logo=mongodb&logoColor=4EA94B" alt="MongoDB"/></a>
   <a href="https://github.com/gustavofalcao1?tab=repositories"><img src="https://img.shields.io/badge/MariaDB-69473B?style=for-the-badge&labelColor=080A1C&logo=mariadb&logoColor=69473B" alt="MariaDB"/></a>
   <a href="https://github.com/gustavofalcao1?tab=repositories&q=topic:firebase&type=&sort="><img src="https://img.shields.io/badge/Firebase-F0AD4E?style=for-the-badge&labelColor=D9534D&logo=Firebase&logoColor=F0AD4E" alt="Firebase"/></a>
