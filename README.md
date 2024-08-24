@@ -88,7 +88,7 @@
   <a href="https://github.com/gustavofalcao1?tab=repositories"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/></a>
   <a href="https://github.com/gustavofalcao1?tab=repositories&q=topic:ionic&type=&sort="><img src="https://img.shields.io/badge/Ionicons-0170FE?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionicons"/></a>
   <a href="https://github.com/gustavofalcao1?tab=repositories&q=topic:markdown&type=&sort="><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/></a>
-  <a href="hhttps://github.com/gustavofalcao1?tab=repositories"><img src="https://img.shields.io/badge/Figma-9D00FF?style=for-the-badge&labelColor=000000&logo=figma&logoColor=9D00FF" alt="Figma"/></a>
+  <a href="https://github.com/gustavofalcao1?tab=repositories"><img src="https://img.shields.io/badge/Figma-9D00FF?style=for-the-badge&labelColor=000000&logo=figma&logoColor=9D00FF" alt="Figma"/></a>
   <a href="https://github.com/gustavofalcao1?tab=repositories"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=FFFFFF&logo=git&logoColor=F05032" alt="Git"/></a>
   <a href="https://github.com/gustavofalcao1?tab=repositories&q=&type=&language=shell&sort="><img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&labelColor=00FF00&logo=zsh&logoColor=000000" alt="Bash"/></a>
   <a href="https://github.com/gustavofalcao1?tab=repositories&q=topic:linux&type=&sort="><img src="https://img.shields.io/badge/Linux-F0DB4F?style=for-the-badge&labelColor=000000&logo=linux&logoColor=F0DB4F" alt="Linux"/></a>
