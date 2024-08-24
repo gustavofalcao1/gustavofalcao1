@@ -65,32 +65,36 @@
 <br/>
 <br/>
 <br/>
-<br/>
 
 ## Use To Code
 
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Ant-Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-<br/>
+<p align="center">
+  <a href="https://github.com/gustavofalcao1?tab=repositories&q=&type=&language=javascript&sort="><img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=323330&logo=javascript&logoColor=F0DB4F" alt="Javascript"/></a>
+  <a href="https://github.com/gustavofalcao1?tab=repositories&q=&type=&language=typescript&sort="><img src="https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=323330&logo=typescript&logoColor=007ACC" alt="Typescript"/></a>
+  <a href="https://github.com/gustavofalcao1?tab=repositories&q=topic:react&type=&sort="><img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
+  <a href="https://github.com/gustavofalcao1?tab=repositories&q=topic:react-native&type=&sort="><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/></a>
+  <a href="https://github.com/gustavofalcao1?tab=repositories&q=topic:nextjs&type=&sort="><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/></a>
+  <a href="https://github.com/gustavofalcao1?tab=repositories&q=topic:node&type=&sort="><img src="https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A" alt="Nodejs"/></a>
+  <a href="https://github.com/gustavofalcao1?tab=repositories&q=topic:expressjs&type=&sort="><img src="https://img.shields.io/badge/Express.js-F0DB4F?style=for-the-badge&labelColor=323330&logo=express&logoColor=F0DB4F" alt="Express.js"/></a>
+  <a href="https://github.com/gustavofalcao1?tab=repositories&q=topic:expo&type=&sort="><img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&labelColor=FFFFFF&logo=expo&logoColor=000000" alt="Expo"/></a>
+  <a href="https://github.com/gustavofalcao1?tab=repositories&q=topic:expo&type=&sort="><img src="https://img.shields.io/badge/Yarn-5C8EC4?style=for-the-badge&labelColor=FFFFFF&logo=yarn&logoColor=5C8EC4" alt="Yarn"/></a>
+  <a href="https://github.com/gustavofalcao1?tab=repositories&q=&type=&language=python&sort="><img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&labelColor=FFD34B&logo=python&logoColor=306998" alt="Python"/></a>
+  <a href="hhttps://github.com/gustavofalcao1?tab=repositories&q=&type=&language=c%23&sort="><img src="https://img.shields.io/badge/C%23-672687?style=for-the-badge&labelColor=FFFFFF&logo=c&logoColor=672687" alt="C#"/></a>
+  <a href="https://github.com/gustavofalcao1?tab=repositories&q=topic:mongodb&type=&sort="><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&labelColor=FFFFFF&logo=mongodb&logoColor=4EA94B" alt="MongoDB"/></a>
+  <a href="https://github.com/gustavofalcao1?tab=repositories&q=topic:mongodb&type=&sort="><img src="https://img.shields.io/badge/MariaDB-69473B?style=for-the-badge&labelColor=080A1C&logo=mariadb&logoColor=69473B" alt="MariaDB"/></a>
+  <a href="hhttps://github.com/gustavofalcao1?tab=repositories&q=&type=&language=c%23&sort="><img src="https://img.shields.io/badge/Firebase-F0AD4E?style=for-the-badge&labelColor=D9534D&logo=Firebase&logoColor=F0AD4E" alt="Firebase"/></a>
+  <a href="https://github.com/gustavofalcao1?tab=repositories&q=topic:html-css-javascript&type=&sort="><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
+  <a href="https://github.com/gustavofalcao1?tab=repositories&q=topic:html-css-javascript&type=&sort="><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
+  <a href="https://github.com/gustavofalcao1?tab=repositories"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/></a>
+  <a href="https://github.com/gustavofalcao1?tab=repositories&q=topic:ionic&type=&sort="><img src="https://img.shields.io/badge/Ionicons-0170FE?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionicons"/></a>
+  <a href="https://github.com/gustavofalcao1?tab=repositories&q=topic:markdown&type=&sort="><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/></a>
+  <a href="hhttps://github.com/gustavofalcao1?tab=repositories&q=&type=&language=&sort="><img src="https://img.shields.io/badge/Figma-9D00FF?style=for-the-badge&labelColor=000000&logo=figma&logoColor=9D00FF" alt="Figma"/></a>
+  <a href="https://github.com/gustavofalcao1?tab=repositories"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=FFFFFF&logo=git&logoColor=F05032" alt="Git"/></a>
+  <a href="https://github.com/gustavofalcao1?tab=repositories&q=&type=&language=shell&sort="><img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&labelColor=00FF00&logo=zsh&logoColor=000000" alt="Bash"/></a>
+  <a href="https://github.com/gustavofalcao1?tab=repositories&q=topic:linux&type=&sort="><img src="https://img.shields.io/badge/Linux-F0DB4F?style=for-the-badge&labelColor=000000&logo=linux&logoColor=F0DB4F" alt="Linux"/></a>
+  <a href="https://github.com/gustavofalcao1?tab=repositories&q=topic:linux&type=&sort="><img src="https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&labelColor=FFFFFF&logo=docker&logoColor=0DB7ED" alt="Docker"/></a>
+  <a href="https://github.com/gustavofalcao1?tab=repositories"><img src="https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&labelColor=FFFFFF&logo=strapi&logoColor=2E7EEA" alt="Strapi"/></a>
+</p>
 
 ## Top Open Source
 <p align="center">
