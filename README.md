@@ -51,7 +51,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0" alt="Coding gif" />
+ <img align="right" width="500" src="https://64.media.tumblr.com/13d2c753eed929097cc13bbb1d3e482c/67441800327766fc-96/s1920x1080/fe67f6e7feaaf682aa84cd0280cbb4eed24e9dea.gif" alt="Coding gif" />
   
  👨‍💻 &emsp; Solutions Architect & Computer Engineer<br/><br/>
  ✌️ &emsp; I transform <del>Problems</del> into <ins>Knowledge</ins><br/><br/>
@@ -61,8 +61,6 @@
 
 </p>
 
-<br/>
-<br/>
 <br/>
 <br/>
 
