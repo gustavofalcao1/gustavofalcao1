@@ -20,7 +20,7 @@
 <!-- Intro  -->
 <h3 align="center">
   <samp>&gt; Hey There!, I am
-    <b><a target="_blank" href="https://dev.gustavofalcao.pt/digitalresume">Gustavo Falcão</a></b>
+    <b><a target="_blank" href="https://gustavofalcao1.github.io/digitalresume">Gustavo Falcão</a></b>
   </samp>
 </h3>
 
@@ -36,7 +36,7 @@
 </p>
 -->
 <p align="center">
-  <a href="https://dev.gustavofalcao.pt" target="_blank"><img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="gustavofalcao1" /></a>
+  <a href="https://gustavofalcao1.github.io" target="_blank"><img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="gustavofalcao1" /></a>
   <a href="https://www.linkedin.com/in/gustavofalcao1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gustavofalcao1"/></a>
   <a href="https://dev.to/gustavofalcao" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="gustavofalcao1" /></a>
   <!--
