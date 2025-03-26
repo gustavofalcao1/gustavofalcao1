@@ -19,7 +19,7 @@
  # About me
  
 <p>
- 👨‍💻 &emsp; Solutions Architect & Computer Engineer<br/><br/>
+ 👨‍💻 &emsp; Full Stack Engineer<br/><br/>
  🚀 &emsp; I turn problems into solutions, complexity into efficiency, and coffee into scalable code ☕💻<br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: gustavo.falcao01@gmail.com<br/><br/>
