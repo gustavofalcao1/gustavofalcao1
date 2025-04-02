@@ -23,7 +23,7 @@
  🚀 &emsp; I turn problems into solutions, complexity into efficiency, and coffee into scalable code ☕💻<br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: gustavo.falcao01@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/gustavofalcao1/gustavofalcao1/issues)
+ 💬 &emsp; Ask me about anything <a href="https://github.com/gustavofalcao1/gustavofalcao1/issues" target="_blank">here</a>
 
 </p>
 
