@@ -35,7 +35,7 @@
 <p align="center">
   <a href="https://github.com/gustavofalcao1?tab=repositories&q=&type=&language=javascript&sort="><img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=323330&logo=javascript&logoColor=F0DB4F" alt="Javascript"/></a>
   <a href="https://github.com/gustavofalcao1?tab=repositories&q=&type=&language=typescript&sort="><img src="https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=323330&logo=typescript&logoColor=007ACC" alt="Typescript"/></a>
-  <a href="https://github.com/gustavofalcao1?tab=repositories&q=topic:react&type=&sort="><img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
+  <a href="https://github.com/gustavofalcao1?tab=repositories&q=topic:reactjs&type=&sort="><img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
   <a href="https://github.com/gustavofalcao1?tab=repositories&q=topic:react-native&type=&sort="><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/></a>
   <a href="https://github.com/gustavofalcao1?tab=repositories&q=topic:nextjs&type=&sort="><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/></a>
   <a href="https://github.com/gustavofalcao1?tab=repositories&q=topic:node&type=&sort="><img src="https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A" alt="Nodejs"/></a>
