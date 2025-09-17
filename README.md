@@ -48,7 +48,7 @@
   <a href="https://github.com/gustavofalcao1?tab=repositories"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&labelColor=FFFFFF&logo=mongodb&logoColor=4EA94B" alt="MongoDB"/></a>
   <a href="https://github.com/gustavofalcao1?tab=repositories"><img src="https://img.shields.io/badge/MariaDB-69473B?style=for-the-badge&labelColor=080A1C&logo=mariadb&logoColor=69473B" alt="MariaDB"/></a>
   <a href="https://github.com/gustavofalcao1?tab=repositories&q=topic:firebase&type=&sort="><img src="https://img.shields.io/badge/Firebase-F0AD4E?style=for-the-badge&labelColor=D9534D&logo=Firebase&logoColor=F0AD4E" alt="Firebase"/></a>
-    <a href="https://github.com/gustavofalcao1?tab=repositories&q=topic:firebase&type=&sort="><img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&labelColor=00FF00&logo=Supabase&logoColor=000000" alt="Supabase"/></a>
+    <a href="https://github.com/gustavofalcao1?tab=repositories"><img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&labelColor=00FF00&logo=Supabase&logoColor=000000" alt="Supabase"/></a>
   <a href="https://github.com/gustavofalcao1?tab=repositories&q=topic:html&type=&sort="><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
   <a href="https://github.com/gustavofalcao1?tab=repositories&q=topic:css&type=&sort="><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
   <a href="https://github.com/gustavofalcao1?tab=repositories&q=topic:markdown&type=&sort="><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/></a>
